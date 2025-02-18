@@ -11,3 +11,4 @@ Made up of a group of rich and/or influential people who help the King rule over
 - [[World/Grimtol/Salmyre/Roland Duran\|Roland Duran]]: Rules over [[World/Grimtol/Salmyre/Salmyre\|Salmyre]].
 - [[World/Grimtol/Hedron/Darnouk Mudbraid\|Darnouk Mudbraid]]: Rules over [[World/Grimtol/Hedron/Hedron\|Hedron]].
 - [[World/Grimtol/Lorchester/Dione Threden\|Dione Threden]]: Rules over [[World/Grimtol/Lorchester/Lorchester\|Lorchester]].
+- [[World/Grimtol/Calbridge/Mariya Duskblade\|Mariya Duskblade]]: Head of the army, leader of [[World/Grimtol/Calbridge/Calbridge\|Calbridge]].

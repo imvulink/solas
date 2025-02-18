@@ -24,7 +24,7 @@ The people of Grimtol are fiercely loyal to their monarch, with a strong sense o
 [[World/Grimtol/Lorchester/Lorchester\|Lorchester]]
 [[World/Grimtol/Hedron/Hedron\|Hedron]]
 [[World/Grimtol/Grimtol City\|Grimtol City]]
-[[World/Grimtol/Calbridge\|Calbridge]]
+[[World/Grimtol/Calbridge/Calbridge\|Calbridge]]
 [[World/Grimtol/Tolls Crossing\|Tolls Crossing]]
 [[World/Grimtol/Lunar Lake\|Lunar Lake]]
 [[World/Grimtol/Frozen Passes\|Frozen Passes]]
