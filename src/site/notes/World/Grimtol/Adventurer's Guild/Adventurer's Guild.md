@@ -21,3 +21,8 @@ The second story houses some of the guilds members in modest rooms, allowing the
 [[World/Grimtol/Adventurer's Guild/Mystra\|Mystra]]
 [[World/Grimtol/Adventurer's Guild/Varfu\|Varfu]]
 [[World/Grimtol/Adventurer's Guild/Sarod The Fearless\|Sarod The Fearless]]
+[[Players/Belic Anakari\|Belic Anakari]]
+[[Players/Circe Deianeira\|Circe Deianeira]]
+[[Players/Varin Windsmasher\|Varin Windsmasher]]
+[[Players/Xamgi Grey\|Xamgi Grey]]
+[[Players/Xena Rein\|Xena Rein]]
