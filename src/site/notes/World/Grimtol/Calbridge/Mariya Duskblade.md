@@ -4,11 +4,11 @@
 
 ## Mariya Duskblade
 [[1 Index/Table of Contents\|Table of Contents]]
-![Mariya.png|right lp](/img/user/Mariya.png)
+![Mariya.png|right lp](/img/user/Z_Attachments/Mariya.png)
 
-| Race    | Gender | Age | Class | Pronouns | Occupation        | Alignment       | Languages                  | God   |
-| ------- | ------ | --- | ----- | -------- | ----------------- | --------------- | -------------------------- | ----- |
-| Goliath | Female | 39  | Noble | She/Her  | [[World/Grimtol/Kings Council\|Kings Council]] | Lawful Neutral  | Common, Giant, Undercommon | Order |
+| Race    | Gender | Age | Class     | Pronouns | Occupation        | Alignment      | Languages                  | God   |
+| ------- | ------ | --- | --------- | -------- | ----------------- | -------------- | -------------------------- | ----- |
+| Goliath | Female | 39  | Barbarian | She/Her  | [[World/Grimtol/Kings Council\|Kings Council]] | Lawful Neutral | Common, Giant, Undercommon | Order |
 ### Overview
 
 Head of the Army and is in charge of [[World/Grimtol/Calbridge/Calbridge\|Calbridge]]. She also sits on the [[World/Grimtol/Kings Council\|Kings Council]].

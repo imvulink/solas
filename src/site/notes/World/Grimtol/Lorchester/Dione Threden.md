@@ -4,7 +4,7 @@
 
 ## Dione Threden
 [[1 Index/Table of Contents\|Table of Contents]]
-![Dione Threden.png|right lp](/img/user/Dione%20Threden.png)
+![Dione Threden.png|right lp](/img/user/Z_Attachments/Dione%20Threden.png)
 
 | Race  | Gender | Age | Class | Pronouns | Occupation        | Alignment   | Languages | God    |
 | ----- | ------ | --- | ----- | -------- | ----------------- | ----------- | --------- | ------ |
