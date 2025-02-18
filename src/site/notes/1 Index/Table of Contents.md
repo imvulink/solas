@@ -4,7 +4,7 @@
 
 ### *Table of Contents*
 
-# World
+# World of Solas
 ### *Kingdoms*
 [[World/Grimtol/Grimtol\|Grimtol]]
 [[World/Shravenhil/Shravenhil\|Shravenhil]]
