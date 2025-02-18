@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/world/grimtol/adventurer-s-guild/isada/"}
 ---
 
+## Isada
+
 [[1 Index/Table of Contents\|Table of Contents]]
 
 ![Isada.png|right lp](/img/user/Z_Attachments/Isada.png)

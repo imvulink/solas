@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/world/grimtol/salmyre/roland-duran/"}
 ---
 
+# Roland Duran
+
 [[1 Index/Table of Contents\|Table of Contents]]
 ![Roland Duran.png|right lp](/img/user/Z_Attachments/Roland%20Duran.png)
 

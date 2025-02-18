@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/world/grimtol/adventurer-s-guild/adventurer-s-guild/"}
 ---
 
+## Adventurer's Guild
+
 [[1 Index/Table of Contents\|Table of Contents]]
 
 | Members           | Location    | Leader         | Allignment |

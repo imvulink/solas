@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/world/grimtol/adventurer-s-guild/pipness-soleheart/"}
 ---
 
+## Pipness Soleheart
+
 [[1 Index/Table of Contents\|Table of Contents]]
 ![Pipness.png|right lp](/img/user/Z_Attachments/Pipness.png)
 

@@ -2,7 +2,16 @@
 {"dg-publish":true,"permalink":"/world/grimtol/grimtol/"}
 ---
 
+# Grimtol
 [[1 Index/Table of Contents\|Table of Contents]]
+
+### Overview
+| Government | Population | Leader | Capital      | Language |     |
+| ---------- | ---------- | ------ | ------------ | -------- | --- |
+| Monarchy   | 120,000    | King   | Grimtol City | Common   |     |
+The Kingdom of Grimtol, an epitome of classic medieval grandeur, is strategically nestled between the towering peaks of the frozen passes and the vast, endless expanse of the western oceans. This geographical diversity not only shapes the kingdom’s economy and culture but also serves as a natural fortification against potential threats. The Kingdom of Grimtol is a land of contrasts and harmony, where the rugged beauty of the mountains meets the serene majesty of the ocean. Adventurers will find a realm ripe with opportunities for exploration.
+The people of Grimtol are fiercely loyal to their monarch, with a strong sense of duty and honor permeating society. There is also a large number of the population who regard the Adventures from the guild as heroes, and many who hate them claiming they bring chaos and steal jobs. 
+### Locations
 [[World/Grimtol/Salmyre/Salmyre\|Salmyre]]
 [[World/Grimtol/Ockport\|Ockport]]
 [[World/Grimtol/Carlens\|Carlens]]

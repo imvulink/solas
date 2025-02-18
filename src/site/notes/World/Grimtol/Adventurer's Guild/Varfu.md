@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/world/grimtol/adventurer-s-guild/varfu/"}
 ---
 
+## Varfu
+
 [[1 Index/Table of Contents\|Table of Contents]]
 ![Varfu.png|right lp](/img/user/Z_Attachments/Varfu.png)
 

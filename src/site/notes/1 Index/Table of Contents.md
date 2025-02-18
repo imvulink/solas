@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-index/table-of-contents/","tags":["gardenEntry"]}
 ---
 
+### *Table of Contents*
+
 # World
 ### *Kingdoms*
 [[World/Grimtol/Grimtol\|Grimtol]]

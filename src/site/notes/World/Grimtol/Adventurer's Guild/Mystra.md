@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/world/grimtol/adventurer-s-guild/mystra/"}
 ---
 
+## Mystra
+
 [[1 Index/Table of Contents\|Table of Contents]]
 ![Mystra.png|right lp](/img/user/Z_Attachments/Mystra.png)
 

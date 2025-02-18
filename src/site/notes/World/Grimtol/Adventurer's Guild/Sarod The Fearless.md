@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/world/grimtol/adventurer-s-guild/sarod-the-fearless/"}
 ---
 
+## Sarod The Fearless
+
 [[1 Index/Table of Contents\|Table of Contents]]
 ![Sarod.png|right lp](/img/user/Z_Attachments/Sarod.png)
 
