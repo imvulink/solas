@@ -6,11 +6,16 @@
 [[1 Index/Table of Contents\|Table of Contents]]
 
 ### Overview
-| Government | Population | Leader | Capital      | Language |     |
-| ---------- | ---------- | ------ | ------------ | -------- | --- |
-| Monarchy   | 120,000    | King   | Grimtol City | Common   |     |
-The Kingdom of Grimtol, an epitome of classic medieval grandeur, is strategically nestled between the towering peaks of the frozen passes and the vast, endless expanse of the western oceans. This geographical diversity not only shapes the kingdom’s economy and culture but also serves as a natural fortification against potential threats. The Kingdom of Grimtol is a land of contrasts and harmony, where the rugged beauty of the mountains meets the serene majesty of the ocean. Adventurers will find a realm ripe with opportunities for exploration.
+| Government | Population | Leader | Capital      | Language |
+| ---------- | ---------- | ------ | ------------ | -------- |
+| Monarchy   | 120,000    | King   | Grimtol City | Common   
+The Kingdom of Grimtol, an epitome of classic medieval grandeur, is strategically nestled between the towering peaks of the frozen passes and the vast, endless expanse of the western oceans. This geographical diversity not only shapes the kingdom’s economy and culture but also serves as a natural fortification against potential threats. Grimtol is a land of contrasts and harmony, where the rugged beauty of the mountains meets the serene majesty of the ocean. Adventurers will find a realm ripe with opportunities for exploration.
 The people of Grimtol are fiercely loyal to their monarch, with a strong sense of duty and honor permeating society. There is also a large number of the population who regard the Adventures from the guild as heroes, and many who hate them claiming they bring chaos and steal jobs. 
+### *Current Events*
+- A little over a year ago the princess went missing
+- Tensions have been running high all over the kingdom as the king has yet to decide what to do about another heir, insisting that everyone do their part to find his daughter. 
+- Enlistment into the army has gotten higher. The reason isn't clear but rumor has it the king is forcing people to enlist to increase the size and number of search parties. 
+- The King is putting extra pressure on the [[World/Grimtol/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] to find the princess, but their guild master keeps refusing to send his people into more and more dangerous areas for a task that is futile, creating tension between the monarchy and the guild. 
 ### Locations
 [[World/Grimtol/Salmyre/Salmyre\|Salmyre]]
 [[World/Grimtol/Ockport\|Ockport]]
