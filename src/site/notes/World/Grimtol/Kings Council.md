@@ -6,4 +6,4 @@
 Made up of a group of rich and/or influential people who help the King rule over [[World/Grimtol/Grimtol\|Grimtol]].
 
 ### Current Councilors
-[[World/Grimtol/Salmyre/Roland Duran\|Roland Duran]]
+[[World/Grimtol/Salmyre/Roland Duran\|Roland Duran]]: Rules over [[World/Grimtol/Salmyre/Salmyre\|Salmyre]]

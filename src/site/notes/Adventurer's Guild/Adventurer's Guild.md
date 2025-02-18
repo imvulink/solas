@@ -13,3 +13,4 @@ The second story houses some of the guilds members in modest rooms, allowing the
 ## Members
 [[Adventurer's Guild/Evar Moore\|Evar Moore]]
 [[Adventurer's Guild/Velcria\|Velcria]]
+[[Adventurer's Guild/Zag\|Zag]]

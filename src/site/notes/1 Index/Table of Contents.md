@@ -19,10 +19,7 @@
 
 # Players
 # NPCS
-### *Adventurer's Guild*
-[[Adventurer's Guild/Evar Moore\|Evar Moore]]
-[[Adventurer's Guild/Velcria\|Velcria]]
-### *Town Leaders*
-[[World/Grimtol/Salmyre/Roland Duran\|Roland Duran]]
+[[Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]]
+[[World/Grimtol/Kings Council\|Kings Council]]
 ### *Other*
 
