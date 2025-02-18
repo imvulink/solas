@@ -13,7 +13,7 @@
 ### Overview
 Mayor of [[World/Grimtol/Salmyre/Salmyre\|Salmyre]] and sits on the [[World/Grimtol/Kings Council\|Kings Council]] to represent [[World/Grimtol/Salmyre/Salmyre\|Salmyre]].
 Roland was the former leader of the Adventurer's Guild. He retired due to the offer from the King to become a councilor. He left the guild in the hands of his trusted adventuring partner over the last year, and his best friend   [[World/Grimtol/Adventurer's Guild/Evar Moore\|Evar Moore]]
-During his time as the leader of the [[World/Grimtol/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] he became renowned throughout [[World/Grimtol/Grimtol\|Grimtol]] for his kind heart and knack for justice. He has always offered his help were he can, usually for nothing in return. Among all the councilors, he is on the poorer side. 
-Unlike most of them, he earned his place there rather than buying it or being born into it. 
+During his time as the leader of the [[World/Grimtol/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] he became renowned throughout [[World/Grimtol/Grimtol\|Grimtol]] for his kind heart and knack for justice. He has always offered his help were he can, usually for nothing in return. 
+Unlike most of them, he earned his place there rather than buying it or being born into it. The only councilor he considers a true ally is [[World/Grimtol/Hedron/Darnouk Mudbraid\|Darnouk Mudbraid]].
 
 

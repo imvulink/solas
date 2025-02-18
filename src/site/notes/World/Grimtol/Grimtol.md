@@ -22,7 +22,7 @@ The people of Grimtol are fiercely loyal to their monarch, with a strong sense o
 [[World/Grimtol/Ockport\|Ockport]]
 [[World/Grimtol/Carlens\|Carlens]]
 [[World/Grimtol/Lorchester\|Lorchester]]
-[[World/Grimtol/Hedron\|Hedron]]
+[[World/Grimtol/Hedron/Hedron\|Hedron]]
 [[World/Grimtol/Grimtol City\|Grimtol City]]
 [[World/Grimtol/Calbridge\|Calbridge]]
 [[World/Grimtol/Tolls Crossing\|Tolls Crossing]]
