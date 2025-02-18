@@ -15,5 +15,5 @@ Hedron is a quaint and humble village, nestled amidst expansive fields and gentl
 - **Endless Farmlands**: Vast stretches of farmland where villagers cultivate a variety of crops. These fields are the lifeblood of the village, tended with care and dedication.
 - **Oral Traditions**: The elders are keepers of the village's history and folklore, passing down tales of past heroes and mythical creatures that are said to inhabit the surrounding woods and waters.
 - **Self-Sufficiency**: Despite their poverty, the villagers are resourceful and self-reliant, making the most of what the land provides. Bartering is common, and the community often comes together to support those in need.
-- **Heavy Taxes:** The king taxes them heavily in crops and foods, making Hedron the main food source in all of Grimtol. Due to this they are rather poor and sometimes struggle to feed themselves.
+- **Heavy Taxes:** The king taxes them heavily in crops and foods, making Hedron the main food source in all of [[World/Grimtol/Grimtol\|Grimtol]]. Due to this they are rather poor and sometimes struggle to feed themselves.
 - **The Village Green**: A small patch of grass in the center of Hedron, the village green is where community events and gatherings are held. It is a place for children to play and villagers to relax after a long day's work. 
