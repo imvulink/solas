@@ -3,7 +3,6 @@
 ---
 
 ## Salmyre
-
 [[1 Index/Table of Contents\|Table of Contents]]
 
 | Size    | Population | Leader           | Importance                         | Location    |

@@ -20,7 +20,14 @@
 # Religion
 
 # Players
+[[Players/Belic Anakari\|Belic Anakari]]
+[[Players/Circe Deianeira\|Circe Deianeira]]
+[[Players/Varin Windsmasher\|Varin Windsmasher]]
+[[Players/Xamgi Grey\|Xamgi Grey]]
+[[Players/Xena Rein\|Xena Rein]]
+
 # NPCS
+### *Grimtol*
 [[World/Grimtol/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]]
 [[World/Grimtol/Kings Council\|Kings Council]]
 ### *Other*
