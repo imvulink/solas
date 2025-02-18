@@ -9,7 +9,6 @@
 [[World/Grimtol/Grimtol\|Grimtol]]
 [[World/Shravenhil/Shravenhil\|Shravenhil]]
 [[World/Forgotten Wildes/Forgotten Wildes\|Forgotten Wildes]]
-
 ### *Islands*
 [[World/Islands/Exiles Isle\|Exiles Isle]]
 ### *The Ocean*
