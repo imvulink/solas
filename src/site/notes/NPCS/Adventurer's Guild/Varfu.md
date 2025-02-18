@@ -10,3 +10,11 @@
 | Changling | 39  | 5'     | 115lbs | Rouge | [[NPCS/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] | Lawful Evil | He/Him   | Male   |
 ### Overview
   Unknown. No one knows why he is here other than Evar, and he does not share the information. Varfu only seems to ever willingly talk to Evar, and it is almost always in private and secretive.
+
+| Name                  | Hate | Dislike | Neutral | Like | Love |
+| --------------------- | ---- | ------- | ------- | ---- | ---- |
+| [[Players/Belic Anakari\|Belic Anakari]]     |      | x       |         |      |      |
+| [[Players/Varin Windsmasher\|Varin Windsmasher]] |      | x       |         |      |      |
+| [[Players/Xena Rein\|Xena Rein]]         |      |         | x       |      |      |
+| [[Players/Circe Deianeira\|Circe Deianeira]]   |      | x       |         |      |      |
+| [[Players/Xamgi Grey\|Xamgi Grey]]        |      | x       |         |      |      |

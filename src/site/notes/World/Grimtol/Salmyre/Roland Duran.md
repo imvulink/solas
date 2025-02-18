@@ -3,6 +3,7 @@
 ---
 
 [[1 Index/Table of Contents\|Table of Contents]]
+![Roland Duran.png|right lp](/img/user/Z_Attachments/Roland%20Duran.png)
 
 | Race  | Gender | Age | Class   | Pronouns | Former Occupation | Alignment   |
 | ----- | ------ | --- | ------- | -------- | ----------------- | ----------- |
