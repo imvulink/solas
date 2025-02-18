@@ -11,6 +11,8 @@
 ### Overview
   Unknown. No one knows why he is here other than Evar, and he does not share the information. Varfu only seems to ever willingly talk to Evar, and it is almost always in private and secretive.
 
+### Likeness
+
 | Name                  | Hate | Dislike | Neutral | Like | Love |
 | --------------------- | ---- | ------- | ------- | ---- | ---- |
 | [[Players/Belic Anakari\|Belic Anakari]]     |      | x       |         |      |      |

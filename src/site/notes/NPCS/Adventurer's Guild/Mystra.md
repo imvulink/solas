@@ -11,6 +11,8 @@
 ### Overview
   Comes from a long bloodline of fortune tellers. She claims she can accurately divine the future. She used to live in Carlens where her family would do match making. She felt that her skills were better suited to something more than just match making, so she left, and now offers her services to the Adventures Guild and anyone with coin looking to know what their future may hold.
 
+### Likeness
+
 | Name                  | Hate | Dislike | Neutral | Like | Love |
 | --------------------- | ---- | ------- | ------- | ---- | ---- |
 | [[Players/Belic Anakari\|Belic Anakari]]     |      |         | x       |      |      |

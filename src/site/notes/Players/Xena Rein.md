@@ -4,4 +4,4 @@
 
 [[1 Index/Table of Contents\|Table of Contents]]
 
-![Xena.png](/img/user/Xena.png)
+![Xena.png](/img/user/Z_Templates/Xena.png)

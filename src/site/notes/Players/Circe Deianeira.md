@@ -3,4 +3,4 @@
 ---
 
 [[1 Index/Table of Contents\|Table of Contents]]
-![Circe.jpg](/img/user/Circe.jpg)
+![Circe.jpg](/img/user/Z_Templates/Circe.jpg)

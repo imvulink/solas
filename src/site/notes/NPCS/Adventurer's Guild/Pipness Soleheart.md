@@ -11,6 +11,8 @@
 ### Overview
 Quiet gnome who always follows the law. She believes the king is just and right. She is considering leaving the guild after the king and his guards began to hate them due to their inability to find the missing Princess. Afterall, the only reason she is here is because her parents were in the guild. She finds adventurers to be too reckless and haphazard for her liking.
 
+### Likeness
+
 | Name                  | Hate | Dislike | Neutral | Like | Love |
 | --------------------- | ---- | ------- | ------- | ---- | ---- |
 | [[Players/Belic Anakari\|Belic Anakari]]     |      |         | x       |      |      |

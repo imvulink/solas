@@ -4,4 +4,4 @@
 
 [[1 Index/Table of Contents\|Table of Contents]]
 
-![Xamgi.png](/img/user/Xamgi.png)
+![Xamgi.png](/img/user/Z_Templates/Xamgi.png)
