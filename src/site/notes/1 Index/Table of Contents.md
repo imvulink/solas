@@ -19,7 +19,7 @@
 
 # Players
 # NPCS
-[[NPCS/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]]
+[[World/Grimtol/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]]
 [[World/Grimtol/Kings Council\|Kings Council]]
 ### *Other*
 
