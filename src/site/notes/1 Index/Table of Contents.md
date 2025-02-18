@@ -27,7 +27,7 @@
 
 # NPCS
 ### *Grimtol*
-[[World/Grimtol/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]]
+[[World/Grimtol/Salmyre/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]]
 [[World/Grimtol/Kings Council\|Kings Council]]
 ### *Other*
 

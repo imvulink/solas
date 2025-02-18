@@ -16,12 +16,12 @@ The people of Grimtol are fiercely loyal to their monarch, with a strong sense o
 - A little over a year ago the princess went missing
 - Tensions have been running high all over the kingdom as the king has yet to decide what to do about another heir, insisting that everyone do their part to find his daughter. 
 - Enlistment into the army has gotten higher. The reason isn't clear but rumor has it the king is forcing people to enlist to increase the size and number of search parties. 
-- The King is putting extra pressure on the [[World/Grimtol/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] to find the princess, but their guild master keeps refusing to send his people into more and more dangerous areas for a task that is futile, creating tension between the monarchy and the guild. 
+- The King is putting extra pressure on the [[World/Grimtol/Salmyre/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] to find the princess, but their guild master keeps refusing to send his people into more and more dangerous areas for a task that is futile, creating tension between the monarchy and the guild. 
 ### Locations
 [[World/Grimtol/Salmyre/Salmyre\|Salmyre]]
 [[World/Grimtol/Ockport\|Ockport]]
 [[World/Grimtol/Carlens\|Carlens]]
-[[World/Grimtol/Lorchester\|Lorchester]]
+[[World/Grimtol/Lorchester/Lorchester\|Lorchester]]
 [[World/Grimtol/Hedron/Hedron\|Hedron]]
 [[World/Grimtol/Grimtol City\|Grimtol City]]
 [[World/Grimtol/Calbridge\|Calbridge]]

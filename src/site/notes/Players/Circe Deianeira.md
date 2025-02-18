@@ -7,7 +7,7 @@
 
 | Race | Age | Height | Weight | Class      | Occupation             | Allignment      | Pronouns | Gender | Languages                | God |
 | ---- | --- | ------ | ------ | ---------- | ---------------------- | --------------- | -------- | ------ | ------------------------ | --- |
-| Elf  | 28  | 5'7"   | 122lbs | Blood Mage | [[World/Grimtol/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] | Chaotic Neutral | She/Her  | Female | Common, Elvish, Infernal |     |
+| Elf  | 28  | 5'7"   | 122lbs | Blood Mage | [[World/Grimtol/Salmyre/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] | Chaotic Neutral | She/Her  | Female | Common, Elvish, Infernal |     |
 ### Backstory
 Kidnapped by cultists as an infant, Cerce grew up knowing nothing but chaos and murder. Upon finding proof of her family searching for her, she slipped out into the night in hopes of finding them, becoming a priority find for the cultists she escaped.
 

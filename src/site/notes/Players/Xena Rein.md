@@ -7,7 +7,7 @@
 
 | Race     | Age | Height | Weight | Class | Occupation             | Allignment      | Pronouns | Gender | Languages                              | God   |
 | -------- | --- | ------ | ------ | ----- | ---------------------- | --------------- | -------- | ------ | -------------------------------------- | ----- |
-| Tiefling | 24  | 5'5"   | 125lbs | Rouge | [[World/Grimtol/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] | Chaotic Neutral | She/Her  | Female | Common, Thieves' Cant, Infernal, Golin | Chaos |
+| Tiefling | 24  | 5'5"   | 125lbs | Rouge | [[World/Grimtol/Salmyre/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] | Chaotic Neutral | She/Her  | Female | Common, Thieves' Cant, Infernal, Golin | Chaos |
 ### Backstory
 
 ### Enemies
