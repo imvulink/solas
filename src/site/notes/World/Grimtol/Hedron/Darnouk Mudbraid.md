@@ -4,6 +4,7 @@
 
 ## Darnouk Mudbraid
 [[1 Index/Table of Contents\|Table of Contents]]
+![Darnouk.png|right lp](/img/user/Z_Attachments/Darnouk.png)
 
 | Race  | Gender | Age | Class  | Pronouns | Occupation        | Alignment   | Languages                       | God    |
 | ----- | ------ | --- | ------ | -------- | ----------------- | ----------- | ------------------------------- | ------ |
