@@ -6,11 +6,12 @@
 
 [[1 Index/Table of Contents\|Table of Contents]]
 
-| Size       | Population | Leader | Importance | Location    |
-| ---------- | ---------- | ------ | ---------- | ----------- |
-| Large City | 20,000     |        | Port City  | [[World/Grimtol/Grimtol\|Grimtol]] |
+| Size       | Population | Leader              | Importance | Location    |
+| ---------- | ---------- | ------------------- | ---------- | ----------- |
+| Large City | 20,000     | [[World/Grimtol/Mindartis Abize\|Mindartis Abize]] | Port City  | [[World/Grimtol/Grimtol\|Grimtol]] |
 ### Overview
 Perched on the edge of the [[World/Oceans/Crystal Sea\|Crystal Sea]], Ockport is a thriving medieval port city renowned for its bustling trade and maritime prowess. The city is a vital link in the chain of commerce, attracting merchants and adventurers alike. Ockport's culture is deeply entwined with the sea, many of the people choosing to worship the God of Storm, putting out offerings to keep the waters of the Crystal Sea calm. Many people come through Ockport to either sell their wares or make a pit stop on a long journey. Ockport is home to all kinds of creatures passing through, from pirates to merchants to travelers. Ockport is always bustling and busy, the Inns always full each night. Ockport also serves as Grimtol's navy's main base of operation. 
+Due to the nature of , Ockport doesn't really have an official leader so the Navy just watches over it, making sure nothing gets too crazy. 
 
 ### Main Features
 - **The Docks**: The heart of Ockport's economy, these expansive docks are constantly alive with activity. Ships from distant lands arrive and depart, laden with goods and treasures.
