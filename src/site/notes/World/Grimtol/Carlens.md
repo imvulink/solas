@@ -6,9 +6,9 @@
 
 [[1 Index/Table of Contents\|Table of Contents]]
 
-| Size       | Population | Leader               | Importance            | Location    |
-| ---------- | ---------- | -------------------- | --------------------- | ----------- |
-| Metropolis | 28,000     | [[World/Grimtol/Hedron/Darnouk Mudbraid\|Darnouk Mudbraid]] | Main Farming Location | [[World/Grimtol/Grimtol\|Grimtol]] |
+| Size       | Population | Leader               | Importance        | Location    |
+| ---------- | ---------- | -------------------- | ----------------- | ----------- |
+| Metropolis | 28,000     | [[World/Grimtol/Hedron/Darnouk Mudbraid\|Darnouk Mudbraid]] | Main Merchant Hub | [[World/Grimtol/Grimtol\|Grimtol]] |
 ### Overview
 Hedron is a quaint and humble village, nestled amidst expansive fields and gentle hills. This rural community is a testament to the enduring spirit of hardworking farmers who have called this land home for generations. The village is characterized by its rustic charm and the simplicity of life that revolves around agriculture. The villagers are known for their resilience and close-knit bonds. Life is dictated by the rhythms of the seasons, with planting and harvest times being pivotal events. Despite their modest means, the people of Hedron share a strong sense of community and mutual support. The village is steeped in tradition, with seasonal festivals that celebrate the cycles of nature. These occasions are marked by simple feasts, music, and storytelling, providing a respite from the daily toil. Hedron is a place where the land and its people are intertwined, offering a glimpse into a life of simplicity and perseverance. 
 

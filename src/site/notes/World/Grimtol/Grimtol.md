@@ -19,7 +19,7 @@ The people of Grimtol are fiercely loyal to their monarch, with a strong sense o
 - The King is putting extra pressure on the [[World/Grimtol/Salmyre/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] to find the princess, but their guild master keeps refusing to send his people into more and more dangerous areas for a task that is futile, creating tension between the monarchy and the guild. 
 ### Locations
 [[World/Grimtol/Salmyre/Salmyre\|Salmyre]]
-[[World/Grimtol/Ockport\|Ockport]]
+[[World/Grimtol/Ockport/Ockport\|Ockport]]
 [[World/Grimtol/Carlens\|Carlens]]
 [[World/Grimtol/Lorchester/Lorchester\|Lorchester]]
 [[World/Grimtol/Hedron/Hedron\|Hedron]]
