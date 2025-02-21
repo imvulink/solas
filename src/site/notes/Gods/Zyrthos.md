@@ -12,7 +12,7 @@ Zyrthos is  the deity of chaos and trickery, embodying the unpredictable and eve
 ### Characteristics 
 - **Trickster** Zyrthos revels in bewilderment, often speaking in riddles or presenting themselves in forms that defy logic and reason. Their presence is marked by a sense of disorientation and wonder.
 - **Chaotic:** True to their domain, Zyrthos embodies chaos in its purest form, embracing the randomness of existence and the beauty of disorder. Often leaving him completely unpredictable.
-- **Excitable:** Zyrthos is enthused by the prospect of mischief and the unfolding of unexpected events, often acting on impulse and whim.
+- **Impulsive:** Zyrthos is enthused by the prospect of mischief and the unfolding of unexpected events, often acting on impulse and whim.
 - **Changeling:** As a changeling, Zyrthos can adopt countless forms, each more bewildering than the last, allowing them to navigate the world with ease and to confound those who encounter them; reflecting the fluidity and capriciousness of their domain.
 
  ![Zyrthos.png|centerlp|600](/img/user/Zyrthos.png)

@@ -12,7 +12,7 @@ The Goddess Xylaria's domain is greed, wealth, and beauty. Embodying the allure 
 
 ### Characteristics
 - **Greedy:** Xylaria's greed is insatiable, driving her to accumulate endless wealth and beauty. Her followers are often driven by a similar desire, seeking her favor to gain riches.
-- **Self-Centered:** Xylaria's world revolves around her own desires, often neglecting the needs of her followers unless they serve to enhance her own status and treasures.
+- **Self-Centered:** Xylaria's world revolves around her own desires, often neglecting the needs of her followers unless they serve to enhance her own status and treasures. 
 - **Enchanting:** She possesses an otherworldly beauty that captivates all who gaze upon her, making her a figure of both admiration and envy.
 - **Manipulative:** Xylaria is a master of persuasion, using her beauty and charm to manipulate others into fulfilling her desires, often at great personal cost.
 
