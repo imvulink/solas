@@ -4,7 +4,7 @@
 
 ## Mindartis Abize
 [[1 Index/Table of Contents\|Table of Contents]]
-![Mindartis.png](/img/user/Mindartis.png)
+![Mindartis.png](/img/user/Z_Attachments/Mindartis.png)
 
 | Race    | Gender | Age | Class | Pronouns | Occupation        | Alignment       | Languages       | God   |
 | ------- | ------ | --- | ----- | -------- | ----------------- | --------------- | --------------- | ----- |
