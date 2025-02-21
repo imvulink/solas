@@ -17,6 +17,9 @@
 [[World/Oceans/Depths of Tambron\|Depths of Tambron]]
 
 # Religion
+[[Gods/Gods\|Gods]]
+[[Gods/Afterlife\|Afterlife]]
+[[Gods/Prominent Cults & Worshipers\|Prominent Cults & Worshipers]] 
 
 # Players
 [[Players/Belic Anakari\|Belic Anakari]]
