@@ -14,4 +14,4 @@ Varnak is a formidable deity, representing the unwavering principles of order, l
 - **Disciples of the Iron Code**: Very devout followers of Varnak that are known to go to extremes to enforce order, offering no understanding or wiggle room with the laws enforced by both rulers and Varnak. They are viewed as cruel and heartless due to their strict adherence to each and every rule. The have their own form of court to hold trials.
 - **Order**: Vanark believes that order must be upheld no matter what. He does not believe that there is ever a reason someone should break or bend the laws. 
 - **Discipline**: Vanark is strict. Anyone that bends or break the law deserves to be punished and disciplined for their failings. However, he does not bother trying to fix those he deems unworthy, like criminals and those who have a chaotic alignment. He deems them unworthy of his efforts or time to discipline and instructs is Disciples to just kill them. 
-![Pasted image 20250222191813.png|center lp|600](/img/user/Pasted%20image%2020250222191813.png)
+![[Pasted image 20250222191813.png\|center lp]]
