@@ -6,6 +6,7 @@
 
 [[1 Index/Table of Contents\|Table of Contents]]
 [[Gods/Gods\|Gods]]
+![Life and death.png](/img/user/Life%20and%20death.png)
 Elara and Nyxara stand as the enigmatic Twin Goddesses, each embodying the fundamental forces of Life and Death. Born from the primordial chaos, these sisters are eternally bound yet eternally opposed, their divine conflict shaping the world and its inhabitants.
 ## Elara
 Elara is the radiant goddess who breathes vitality into the world. She is a beacon of hope and renewal. Elara's presence is felt across the realms, her essence infusing every living thing with the strength to grow and thrive. Those who worship her find solace in her embrace, knowing that life is a precious gift, nurtured by the loving hands of the Goddess of Life. Her followers, often healers and druids, seek to emulate her benevolence, spreading life and joy wherever they tread.
