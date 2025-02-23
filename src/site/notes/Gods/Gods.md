@@ -11,3 +11,4 @@
 [[Gods/Seraphina\|Seraphina]]: Goddess of Magic, Arcana. Mistress of the Weave.
 [[Gods/Thalor\|Thalor]]: God of Nature, Animals, and The Elements.
 [[Gods/Varnak\|Varnak]]: God of Order, Law, and Discipline. 
+[[Gods/Elara & Nyxara\|Elara & Nyxara]]: Twin Goddesses of Life and Death.
