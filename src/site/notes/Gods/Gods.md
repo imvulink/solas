@@ -8,3 +8,4 @@
 
 [[Gods/Xylaria\|Xylaria]]: Goddess of Wealth, Greed, and Beauty.
 [[Gods/Zyrthos\|Zyrthos]]: God of Chaos and Trickery.
+[[Gods/Seraphina\|Seraphina]]: Goddess of Magic, Arcana. Mistress of the Weave.
