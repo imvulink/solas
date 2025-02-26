@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/players/blaze-tahar/"}
 ---
 
-##  Zephyr "Blaze" Tahar
+## Zephyr "Blaze" Tahar
 [[1 Index/Table of Contents\|Table of Contents]]
 
 | Race        | Age | Height | Weight | Class   | Occupation             | Allignment | Pronouns | Gender | Languages | God |
