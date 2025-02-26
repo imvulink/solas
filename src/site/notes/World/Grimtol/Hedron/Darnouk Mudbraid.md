@@ -6,9 +6,9 @@
 [[1 Index/Table of Contents\|Table of Contents]]
 ![Darnouk.png|right lp](/img/user/Z_Attachments/Darnouk.png)
 
-| Race  | Gender | Age | Class  | Pronouns | Occupation        | Alignment   | Languages                       | God    |
-| ----- | ------ | --- | ------ | -------- | ----------------- | ----------- | ------------------------------- | ------ |
-| Dwarf | Male   | 280 | Farmer | He/Him   | [[World/Grimtol/Kings Council\|Kings Council]] | Lawful Good | Common, Sign Language, Dwarvish | Nature |
+| Race  | Gender | Age | Class  | Pronouns | Occupation        | Alignment   | Languages                       | God        |
+| ----- | ------ | --- | ------ | -------- | ----------------- | ----------- | ------------------------------- | ---------- |
+| Dwarf | Male   | 280 | Farmer | He/Him   | [[World/Grimtol/Kings Council\|Kings Council]] | Lawful Good | Common, Sign Language, Dwarvish | [[Gods/Thalor\|Thalor]] |
 
 ### Overview
 Leader of [[World/Grimtol/Hedron/Hedron\|Hedron]] and sits on the [[World/Grimtol/Kings Council\|Kings Council]] to represent [[World/Grimtol/Hedron/Hedron\|Hedron]].

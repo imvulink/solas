@@ -7,9 +7,9 @@
 
 ![Dione Threden.png|right lp](/img/user/Z_Attachments/Dione%20Threden.png)
 
-| Race  | Gender | Age | Class | Pronouns | Occupation        | Alignment   | Languages | God    |
-| ----- | ------ | --- | ----- | -------- | ----------------- | ----------- | --------- | ------ |
-| Human | Female | 31  | Noble | She/Her  | [[World/Grimtol/Kings Council\|Kings Council]] | Lawful Evil | Common    | Wealth |
+| Race  | Gender | Age | Class | Pronouns | Occupation        | Alignment   | Languages | God         |
+| ----- | ------ | --- | ----- | -------- | ----------------- | ----------- | --------- | ----------- |
+| Human | Female | 31  | Noble | She/Her  | [[World/Grimtol/Kings Council\|Kings Council]] | Lawful Evil | Common    | [[Gods/Xylaria\|Xylaria]] |
 ### Overview
 
 Mayor of [[World/Grimtol/Lorchester/Lorchester\|Lorchester]] and sits on the [[World/Grimtol/Kings Council\|Kings Council]] to represent [[World/Grimtol/Lorchester/Lorchester\|Lorchester]].
