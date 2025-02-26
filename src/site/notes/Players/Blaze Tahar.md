@@ -13,7 +13,7 @@ Pyrrhus was born to a proud fire genasi warrior and a serene water genasi mystic
 
 He sought out his ancestors for answers, figuring that true full-blooded Genies must hold some answers. However, when he met with them, they offered no answers, only scorn and hatred. They said he is weak and a disgrace to their blood. He does not deserve answers or power. Desperate for help, he begged them to let him prove himself, offer him a way to. One Genie came forward offering him use of her power so that he may prove himself worthy of the wisdom and wishes a true Genie can offer. He agreed, his want to find his mother too great for him to deny her. And so a Warlock pact was made between him and Sirratu a fire Genie, one of his ancestors. 
 
-While the pact did grant him power over all elements and more, it also granted him endless nagging from Sirratu. She loves telling him how wrong he is and how this will never prove anything. She mocks him regularly. Why Sirratu actually made the pact isn't apparent, but based on how she acts, Pyrrhus thinks it's just so that she can have someone to bother.
+While the pact did grant him power over all elements and more, it also granted him endless nagging from Sirratu. She loves telling him how wrong he is and how this will never prove anything. She mocks him regularly. Why Sirratu made the pact isn't apparent, but based on how she acts, Pyrrhus thinks it's just so that she can have someone to bother.
 
 ### Enimies
 
