@@ -21,4 +21,4 @@ Quiet gnome who always follows the law. She believes the king is just and right.
 | [[Players/Varin Windsmasher\|Varin Windsmasher]] |      |         | x       |      |      |
 | [[Players/Xena Rein\|Xena Rein]]         |      |         | x       |      |      |
 | [[Players/Circe Deianeira\|Circe Deianeira]]   |      |         | x       |      |      |
-| [[Players/Xamgi Grey\|Xamgi Grey]]        |      |         | x       |      |      |
+| [[Players/Blaze Tahar\|Blaze Tahar]]        |      |         | x       |      |      |

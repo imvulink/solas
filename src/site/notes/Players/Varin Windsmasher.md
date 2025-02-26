@@ -18,6 +18,6 @@ Varin was born in a hidden Goliath village in the icy mountains near Calbridge, 
 | [[Players/Belic Anakari\|Belic Anakari]]   |      | x       |         |      |      |
 | [[Players/Xena Rein\|Xena Rein]]       |      |         | x       |      |      |
 | [[Players/Circe Deianeira\|Circe Deianeira]] |      | x       |         |      |      |
-| [[Players/Xamgi Grey\|Xamgi Grey]]      |      |         | x       |      |      |
+| [[Players/Blaze Tahar\|Blaze Tahar]]      |      |         | x       |      |      |
 
 ![Varin.png|center lp|600](/img/user/Z_Templates/Varin.png)

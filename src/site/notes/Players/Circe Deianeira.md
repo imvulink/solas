@@ -20,6 +20,6 @@ Kidnapped by cultists as an infant, Cerce grew up knowing nothing but chaos and 
 | [[Players/Belic Anakari\|Belic Anakari]]     |      |         | x       |      |      |
 | [[Players/Varin Windsmasher\|Varin Windsmasher]] |      |         | x       |      |      |
 | [[Players/Xena Rein\|Xena Rein]]         |      |         | x       |      |      |
-| [[Players/Xamgi Grey\|Xamgi Grey]]        |      |         | x       |      |      |
+| [[Players/Blaze Tahar\|Blaze Tahar]]        |      |         | x       |      |      |
 
 ![Circe.jpg|center lp| 500](/img/user/Z_Templates/Circe.jpg)

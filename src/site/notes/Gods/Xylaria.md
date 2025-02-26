@@ -6,7 +6,7 @@
 
 [[1 Index/Table of Contents\|Table of Contents]]
 [[Gods/Gods\|Gods]]
-![wealth.png](/img/user/wealth.png)
+![wealth.png](/img/user/Z_Attachments/wealth.png)
 ### Overview
 The Goddess Xylaria's domain is greed, wealth, and beauty. Embodying the allure and pitfalls of wealth and beauty, Xylaria's influence is felt in the hearts of those who yearn for opulence and the captivating allure of beauty. She is revered and feared as the personification of greed and vanity. She is the patron deity of those who seek to amass fortunes and possess beauty beyond compare. Her worshippers include wealthy merchants, jewelers, and those who aspire to climb the social ladder through charm and deception. Xylaria's myths often recount her schemes to acquire the most beautiful and valuable treasures, leaving a trail of broken hearts and shattered ambitions in her pursuit. However not all tales end poorly leading many to still worship her; hopeful for the chance to gain wealth and beauty.
 

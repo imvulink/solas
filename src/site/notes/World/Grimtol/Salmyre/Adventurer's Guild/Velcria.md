@@ -21,7 +21,7 @@ Velcria grew up on the streets with some other children. They formed their own g
 | [[Players/Varin Windsmasher\|Varin Windsmasher]] |      |         | x       |      |      |
 | [[Players/Xena Rein\|Xena Rein]]         |      |         | x       |      |      |
 | [[Players/Circe Deianeira\|Circe Deianeira]]   |      |         | x       |      |      |
-| [[Players/Xamgi Grey\|Xamgi Grey]]        |      |         | x       |      |      |
+| [[Players/Blaze Tahar\|Blaze Tahar]]        |      |         | x       |      |      |
 
 
 ![Velcria.jpg|center lp](/img/user/Z_Attachments/Velcria.jpg)

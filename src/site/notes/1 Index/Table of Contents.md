@@ -25,7 +25,7 @@
 [[Players/Belic Anakari\|Belic Anakari]]
 [[Players/Circe Deianeira\|Circe Deianeira]]
 [[Players/Varin Windsmasher\|Varin Windsmasher]]
-[[Players/Xamgi Grey\|Xamgi Grey]]
+[[Players/Blaze Tahar\|Blaze Tahar]]
 [[Players/Xena Rein\|Xena Rein]]
 
 # NPCS

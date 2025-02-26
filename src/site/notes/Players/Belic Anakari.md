@@ -20,6 +20,6 @@ Belic’s origins are unknown, even among the Unseelie. Some whisper that he was
 | [[Players/Varin Windsmasher\|Varin Windsmasher]] |      |         | x       |      |      |
 | [[Players/Xena Rein\|Xena Rein]]         |      |         | x       |      |      |
 | [[Players/Circe Deianeira\|Circe Deianeira]]   |      |         | x       |      |      |
-| [[Players/Xamgi Grey\|Xamgi Grey]]        |      |         | x       |      |      |
+| [[Players/Blaze Tahar\|Blaze Tahar]]        |      |         | x       |      |      |
 
 ![Belic.jpg|center lp|600](/img/user/Z_Attachments/Belic.jpg)

@@ -18,6 +18,6 @@
 | [[Players/Belic Anakari\|Belic Anakari]]     |      |         | x       |      |      |
 | [[Players/Varin Windsmasher\|Varin Windsmasher]] |      |         | x       |      |      |
 | [[Players/Circe Deianeira\|Circe Deianeira]]   |      |         | x       |      |      |
-| [[Players/Xamgi Grey\|Xamgi Grey]]        |      |         | x       |      |      |
+| [[Players/Blaze Tahar\|Blaze Tahar]]        |      |         | x       |      |      |
 
 ![Xena.png|center lp|600](/img/user/Z_Templates/Xena.png)

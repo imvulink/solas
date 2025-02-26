@@ -22,5 +22,5 @@ She grew up living on the streets, needing to steal her next meal to make it by.
 | [[Players/Varin Windsmasher\|Varin Windsmasher]] |      |         | x       |      |      |
 | [[Players/Xena Rein\|Xena Rein]]         |      |         | x       |      |      |
 | [[Players/Circe Deianeira\|Circe Deianeira]]   |      |         | x       |      |      |
-| [[Players/Xamgi Grey\|Xamgi Grey]]        |      |         | x       |      |      |
+| [[Players/Blaze Tahar\|Blaze Tahar]]        |      |         | x       |      |      |
 
