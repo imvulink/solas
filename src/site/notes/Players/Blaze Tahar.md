@@ -5,9 +5,9 @@
 ## Pyrrhus "Blaze" Tahar
 [[1 Index/Table of Contents\|Table of Contents]]
 
-| Race        | Age | Height | Weight | Class   | Occupation             | Allignment | Pronouns | Gender | Languages | God |
-| ----------- | --- | ------ | ------ | ------- | ---------------------- | ---------- | -------- | ------ | --------- | --- |
-| Fire Genasi |     |        | lbs    | Warlock | [[World/Grimtol/Salmyre/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] | Neutral    |          |        |           |     |
+| Race        | Age | Height | Weight | Class   | Occupation             | Allignment | Pronouns | Gender | Languages        | God  |
+| ----------- | --- | ------ | ------ | ------- | ---------------------- | ---------- | -------- | ------ | ---------------- | ---- |
+| Fire Genasi | 32  | 5'9"   | 200lbs | Warlock | [[World/Grimtol/Salmyre/Adventurer's Guild/Adventurer's Guild\|Adventurer's Guild]] | Neutral    | He/Him   | Male   | Common, Infernal | None |
 ### Backstory
 Pyrrhus was born to a proud fire genasi warrior and a serene water genasi mystic. His father expected him to inherit the family's fiery legacy. Instead, Pyrrhus was gifted with the soothing embrace of water abilities, but held the look of fierce fire—an unbearable disgrace in his father’s eyes. When his mother vanished mysteriously one night, his father blamed him, claiming his "weaknesses" drove her away. Cast out from his home, Pyrrhus wandered, searching for answers about his mother’s fate and a purpose beyond the shame that haunted him. After leaving, Pyrrhus decided to go by Blaze, the nickname his mother called him. 
 
