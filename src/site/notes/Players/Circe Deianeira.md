@@ -26,4 +26,4 @@ A single night was all it took, the night of her true birthday, the Shadowborn f
 | [[Players/Xena Rein\|Xena Rein]]         |      |         | x       |      |      |
 | [[Players/Blaze Tahar\|Blaze Tahar]]        |      |         | x       |      |      |
 
-![Circe.jpg|center lp| 500](/img/user/Z_Templates/Circe.jpg)
+![Circe 2.png|center lp](/img/user/Circe%202.png)
